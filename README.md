@@ -23,35 +23,16 @@ Version Control: Git, GitHub
 
 Berikut beberapa proyek yang telah saya kerjakan:
 
-1️⃣ Employee Performance Analysis
+1️⃣ --------------
 
-Deskripsi: Menganalisis kinerja pegawai di perguruan tinggi menggunakan data historis (dummy).
+Deskripsi: ------------
 
-Teknologi: Power BI, SQL, Python
+Teknologi: --------------
 
-Hasil: Dashboard interaktif yang memberikan insight mengenai produktivitas pegawai.
-
-Lihat Proyek
-
-2️⃣ Sales Forecasting
-
-Deskripsi: Membangun model prediksi penjualan menggunakan metode time series forecasting.
-
-Teknologi: Python (Pandas, Statsmodels), Power BI
-
-Hasil: Model prediksi dengan akurasi tinggi yang membantu perencanaan stok produk.
+Hasil:------------
 
 Lihat Proyek
 
-3️⃣ Data Cleaning & Transformation
-
-Deskripsi: Membersihkan dan mentransformasikan dataset besar agar siap digunakan dalam analisis lebih lanjut.
-
-Teknologi: Python (Pandas), SQL
-
-Hasil: Dataset yang lebih terstruktur dan mudah diolah untuk analisis bisnis.
-
-Lihat Proyek
 
 📬 Let's Connect!
 
