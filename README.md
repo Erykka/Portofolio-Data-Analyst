@@ -21,17 +21,7 @@ Version Control: Git, GitHub
 
 📂 Portfolio Projects
 
-Berikut beberapa proyek yang telah saya kerjakan:
-
-1️⃣ --------------
-
-Deskripsi: ------------
-
-Teknologi: --------------
-
-Hasil:------------
-
-Lihat Proyek
+Bisa dilihat pada file pdf diatas
 
 
 📬 Let's Connect!
